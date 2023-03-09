@@ -1,4 +1,5 @@
 # HotpotQA-using-Transformer
 Will be updated soon. \n
 Longformer Based:\n
-![Longformer_multihop drawio](https://user-images.githubusercontent.com/59758578/223956921-32fad932-5801-4da6-80d6-1087de82d774.png)
+
+![multihop1 drawio](https://user-images.githubusercontent.com/59758578/223958111-4c5cb7fd-35c1-4968-8ec9-a3f23898f6d8.png)
